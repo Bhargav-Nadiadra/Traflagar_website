@@ -294,6 +294,10 @@ p {
   border-radius: 50%;
 }
 
+.slick-slide {
+  margin: 0 10px;
+}
+
 .slider .priv-arrow {
   z-index: 10;
   position: absolute;
